@@ -3,3 +3,6 @@ def countword(string):
     return len(s)
 
 print(countword("hello this function is written by nilesh"))
+
+def prajapat():
+    return "hello nilesh"
