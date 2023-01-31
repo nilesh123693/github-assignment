@@ -9,3 +9,7 @@ def prajapat():
 
 def nilesh():
      return "hello"
+ 
+def prajapati():
+     return "good morning"
+ 
