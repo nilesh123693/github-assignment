@@ -12,4 +12,10 @@ def nilesh():
  
 def prajapati():
      return "good morning"
+
+
+def countchar(string):
+    return len(string)
+
+print(countchar("hello this function is written by pradhyum"))
  
